@@ -1,0 +1,45 @@
+[
+
+    {
+        "fa-store": "fas fa-store",
+        "ecom": "maths",
+        "description": "verified and qualified tutors.",
+        "link": "explore"
+    },
+
+    {
+        "fa-store": "fas fa-tools",
+        "ecom": "physics?",
+        "description": "paragraph",
+        "link": "explore"
+    },
+
+    {
+        "fa-store": "fas fa-store",
+        "ecom": "tech_maths",
+        "description": "paragraph",
+        "link": "explore"
+    },
+
+    {
+        "fa-store": "fas fa-store",
+        "ecom": "tech_science?",
+        "description": "paragraph",
+        "link": "explore"
+    },
+
+    {
+        "fa-store": "fas fa-store",
+        "ecom": "life_science",
+        "description": "paragraph",
+        "link": "explore"
+    },
+
+    {
+        "fa-store": "fas fa-store",
+        "ecom": "Geography",
+        "description": "paragraph",
+        "link": "explore"
+    }
+
+   ]
